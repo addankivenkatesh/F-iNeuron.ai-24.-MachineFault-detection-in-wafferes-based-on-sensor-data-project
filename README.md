@@ -1,1 +1,0 @@
-# F-iNeuron.ai-24.-MachineFault-detection-in-wafferes-based-on-sensor-data-project
